@@ -16,3 +16,5 @@ It is a Reinforcement Leraning policy used to map a current state to an action w
   <img width="460" height="300" src="https://images.deepai.org/django-summernote/2019-03-19/c8c9f96b-cc21-4d33-8b37-cb810f599e6e.png">
 </p>
 
+## Tic-Tac-Toe Game
+[Implement TicTacToe](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542)
